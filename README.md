@@ -2,7 +2,7 @@ Property | Data
 --- | --- 
 **Languages**  | Python, Fortran, C, bash/zsh, C#
 **Domain Knownledge**  | Physics, Deep Learning, Fluid Dynamics, CFD, ROM, HPC, Biomedical Engineering, Computational Physics, Software Development.
-**Tools & Platform**  | Numpy, Pytorch, pyvista, OpenFoam, VTK, Paraview, 3DSlicer
+**Tools & Platforms**  | Numpy, Pytorch, pyvista, OpenFoam, VTK, Paraview, 3DSlicer
 
 
 <p align="center">
